@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Quicksand:wght@300&display=swap');
+
+thead{
+
+background-color: rgb(220, 175, 134);
+border: 1px solid gray;
+}
+
+
+th, td{
+    border: 1px solid gray;
+   
+    padding:15px;
+  
+}
+
+table{
+    border: 1px solid red;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+  
+}
+#header{
+    background-color: yellow;
+}
+
